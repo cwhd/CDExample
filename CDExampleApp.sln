@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDExampleApp", "CDExampleApp.csproj", "{A0676AF4-EF8C-4C60-BA3B-48B7023B73F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDExampleApp.Tests", "..\CDExampleApp.Tests\CDExampleApp.Tests.csproj", "{AAAACA64-B35D-43F4-B726-3134E7EBD1C4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
